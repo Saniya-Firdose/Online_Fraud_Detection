@@ -1,0 +1,21 @@
+pandas==2.1.1
+numpy==1.26.2
+scikit-learn==1.3.1
+xgboost==1.7.7
+matplotlib==3.8.1
+seaborn==0.12.3
+joblib==1.3.2
+jupyter==1.0.0
+✅ Notes:
+pandas & numpy → Data manipulation
+
+scikit-learn → Machine learning models & preprocessing
+
+xgboost → Gradient boosting model for classification
+
+matplotlib & seaborn → Visualization of results (e.g., confusion matrix, ROC curve)
+
+joblib → Save/load trained models
+
+jupyter → If you want to include notebooks
+
