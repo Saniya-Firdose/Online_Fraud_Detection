@@ -24,7 +24,7 @@ This project focuses on detecting fraudulent transactions in online platforms. T
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Saniya-Firdose/Online_Fraud_Detection>
 cd Online-Fraud-Detection
 pip install -r requirements.txt
 
